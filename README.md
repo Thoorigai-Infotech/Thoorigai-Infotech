@@ -6,8 +6,6 @@
 
 > **Bridging the tech gap in tier-2 cities — hands-on software education for students in Thoothukudi and beyond.**
 
-We are a software training academy based in **Tuticorin (Thoothukudi), Tamil Nadu**, committed to equipping students from tier-2 and tier-3 cities with industry-relevant technology skills.
-
 ---
 
 ## 🏫 About Us
@@ -22,9 +20,9 @@ Whether you are a student exploring your first steps in programming or a learner
 
 > 💡 *Learn. Build. Launch your IT career.*
 
-- 📍 [Tuticorin (Thoothukudi), Tamil Nadu, India](https://maps.app.goo.gl/CezrvfU3JPdnBVqY7)
+- 📍 Based in Tuticorin (Thoothukudi), Tamil Nadu
 - 🎯 Focused on students from South Tamil Nadu and rural communities
-- 💡 Hands-on, project-based learning approach
+- 🛠️ Hands-on, project-based learning approach
 - 🤝 Mentorship-driven training environment
 
 ---
