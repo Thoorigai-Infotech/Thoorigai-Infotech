@@ -72,6 +72,7 @@ Interested in enrolling or partnering with us?
 - 🌐 Website: [thoorigaiinfotech.com](https://thoorigaiinfotech.com)
 - 📧 Email: thoorigai.infotech.llp@gmail.com
 - 📞 Phone: +91 93841 34008 / +91 93841 64008
+- 💬 WhatsApp: [Chat with us](https://wa.me/919384134008)
 - 📍 Location: [Tuticorin (Thoothukudi), Tamil Nadu, India](https://maps.app.goo.gl/CezrvfU3JPdnBVqY7)
 
 ---
