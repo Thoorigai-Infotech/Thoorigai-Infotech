@@ -52,6 +52,7 @@ Whether you are a student exploring your first steps in programming or a learner
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=anaconda&logoColor=white)
+![Data & Analytics](https://img.shields.io/badge/Data%20%26%20Analytics-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
