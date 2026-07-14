@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./thoorigai_logo.png" alt="Thoorigai Infotech Logo" width="250"/>
+  <img src="./Brand Logo.jpeg" alt="Thoorigai Infotech Logo" width="250"/>
 </p>
 
 # 🎓 Thoorigai Infotech
